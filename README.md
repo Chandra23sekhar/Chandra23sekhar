@@ -52,5 +52,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
- [![HitCount](https://hits.dwyl.com/Chandra23sekhar/https://githubcom/Chandra23sekhar/Web-BD_Project.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Chandra23sekhar/https://githubcom/Chandra23sekhar/Web-BD_Project)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandra23sekhar)](https://github.com/anuraghazra/github-readme-stats)
