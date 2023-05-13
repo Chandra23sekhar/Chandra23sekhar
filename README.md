@@ -49,3 +49,8 @@ You can click the Preview link to take a look at your changes.
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
+
+ [![HitCount](https://hits.dwyl.com/Chandra23sekhar/https://githubcom/Chandra23sekhar/Web-BD_Project.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Chandra23sekhar/https://githubcom/Chandra23sekhar/Web-BD_Project)
