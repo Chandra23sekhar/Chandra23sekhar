@@ -59,4 +59,6 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chandra23sekhar)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandra23sekhar&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 [![](https://visitcount.itsvg.in/api?id=Chandra23sekhar&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
