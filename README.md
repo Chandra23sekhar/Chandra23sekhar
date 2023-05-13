@@ -57,3 +57,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandra23sekhar)](https://github.com/anuraghazra/github-readme-stats)
 
+[![](https://visitcount.itsvg.in/api?id=Chandra23sekhar&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
