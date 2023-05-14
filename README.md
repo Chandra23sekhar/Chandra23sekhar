@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chandra23sekhar
+- 👋 Hi, I’m Chandrasekhar
 - 👀 I’m interested in Machine Learning and Web Development
 - 🌱 I’m currently learning React JS and Node JS
 
