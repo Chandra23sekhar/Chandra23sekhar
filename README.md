@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Chandrasekhar
-- 👀 I’m interested in Machine Learning and Web Development
-- 🌱 I’m currently learning React JS and Node JS
+
 
 - 📫 How to reach me 
 - 	![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : chan23du@gmail.com
